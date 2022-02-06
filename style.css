@@ -1,0 +1,34 @@
+.header{
+    width: 100%;
+    height:fit-content;
+    margin: 0px;
+    font-size: 22px;
+}
+
+.note{
+font-size: 15px;
+color: red;
+}
+
+body{
+    background-size: cover;
+}
+
+
+
+
+    .footer{
+        position: fixed;
+        width: 100%;
+      
+        line-height: 2;
+        font-size: 18px;
+        text-align: center;
+        bottom: 0px;
+        left:0px;
+    }
+
+    canvas{
+    border: 4px dashed white;
+    box-shadow: 5px 6px 18px black;
+    }
